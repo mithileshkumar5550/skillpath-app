@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/skillpath-app/static/css/main.6e187aa2.css",
+    "main.js": "/skillpath-app/static/js/main.dacbdc07.js",
+    "static/js/453.802f26cc.chunk.js": "/skillpath-app/static/js/453.802f26cc.chunk.js",
+    "index.html": "/skillpath-app/index.html",
+    "main.6e187aa2.css.map": "/skillpath-app/static/css/main.6e187aa2.css.map",
+    "main.dacbdc07.js.map": "/skillpath-app/static/js/main.dacbdc07.js.map",
+    "453.802f26cc.chunk.js.map": "/skillpath-app/static/js/453.802f26cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e187aa2.css",
+    "static/js/main.dacbdc07.js"
+  ]
+}
